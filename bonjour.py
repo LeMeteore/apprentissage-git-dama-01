@@ -4,3 +4,7 @@ def bonjour(name):
 
 def aurevoir():
     return f"Aurevoir et à bientôt"
+
+
+def saluer():
+    return "salut"
