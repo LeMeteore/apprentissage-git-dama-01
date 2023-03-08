@@ -1,10 +1,10 @@
 def bonjour(name):
-    return f"Bonjour {name}, comment vas tu?"
+    return f"Bonjour {name}"
 
 
-def aurevoir():
+def au_revoir():
     return f"Aurevoir et à bientôt"
 
 
-def saluer():
-    return "salut"
+def saluer(name):
+    return f"salut {name}"
