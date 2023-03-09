@@ -1,10 +1,10 @@
-def bonjour(name):
+def bonjour1(name):
     return f"Bonjour {name}"
 
 
-def au_revoir():
+def bonjour2():
     return f"Aurevoir et à bientôt"
 
 
-def saluer(name):
+def bonjour3(name):
     return f"salut {name}"
